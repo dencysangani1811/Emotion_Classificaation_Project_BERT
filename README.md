@@ -90,7 +90,7 @@ If you want to retrain the model:
 pip install transformers==4.41.1 datasets==2.19.1 torch scikit-learn pandas
 python train_bert.py
 python run_predict.py
-
+```
 ---
 
 
