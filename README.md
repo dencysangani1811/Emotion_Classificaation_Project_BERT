@@ -94,7 +94,7 @@ python run_predict.py
 ---
 
 
-## 📌 Future Work
+### 📌 Future Work
 
 - Integrate explainability modules (LIME, SHAP).
 - Use domain-specific BERT models (e.g., RoBERTa or EmotionBERT).
@@ -102,6 +102,6 @@ python run_predict.py
 
 ---
 
-## 👤 Author
+### 👤 Author
 
 Dency Sangani  
